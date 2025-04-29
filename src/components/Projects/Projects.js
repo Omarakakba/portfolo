@@ -74,10 +74,6 @@ function Projects() {
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
-
-         
-            />
-          </Col>
         </Row>
       </Container>
     </Container>
